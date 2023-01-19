@@ -1,0 +1,1 @@
+web: java -Dserver.port=80 -jar target/services-0.0.1-SNAPSHOT.jar
